@@ -1,4 +1,4 @@
-# Validador de Bandeiras de Cartão de Crédito
+# Validador de Bandeiras de Cartão de Crédito [Python]
 
 ## 📋 Descrição
 Este projeto é um validador de bandeiras de cartão de crédito que identifica a bandeira do cartão com base no número fornecido. Ele é útil para e-commerces que lidam com uma quantidade limitada de cartões e desejam oferecer bônus personalizados com base na bandeira do cartão.

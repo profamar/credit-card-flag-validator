@@ -1,9 +1,9 @@
-# Credit Card Flag Validator
+# Validador de Bandeiras de Cartão de Crédito
 
-## Descrição
-Este projeto é um validador de bandeiras de cartão de crédito que identifica a bandeira do cartão com base no número fornecido. Ele é útil para e-commerces que precisam lidar com uma pequena quantidade de cartões e oferecer bônus com base na bandeira do cartão.
+## 📋 Descrição
+Este projeto é um validador de bandeiras de cartão de crédito que identifica a bandeira do cartão com base no número fornecido. Ele é útil para e-commerces que lidam com uma quantidade limitada de cartões e desejam oferecer bônus personalizados com base na bandeira do cartão.
 
-## Instalação
+## 🧩 Como Utilizar
 1. Clone o repositório:
     ```sh
     git clone https://github.com/SEU_USUARIO/credit-card-flag-validator.git
@@ -17,14 +17,14 @@ Este projeto é um validador de bandeiras de cartão de crédito que identifica 
     pip install -r requirements.txt
     ```
 
-## Uso
+## 🧪 Testes
 1. Execute o script principal:
     ```sh
     python src/main.py
     ```
 2. Insira o número do cartão de crédito quando solicitado e veja a bandeira identificada.
 
-## Contribuição
+## 📝 Contribuições
 Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 1. Faça um fork do projeto.
 2. Crie uma branch para a sua feature (`git checkout -b feature/nova-feature`).
@@ -33,7 +33,10 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 5. Abra um Pull Request.
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT. 
 
-## Contato
-Para dúvidas ou suporte, entre em contato através do e-mail: [seu-email@exemplo.com](mailto:seu-email@exemplo.com).
+## 🤝 Agradecimentos
+Agradecemos à comunidade de desenvolvedores da DIO e aos nossos mentores por todo o suporte durante o desenvolvimento deste projeto.
+
+
+

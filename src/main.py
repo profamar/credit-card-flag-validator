@@ -1,4 +1,13 @@
 def get_credit_card_flag(card_number):
+    """
+    Retorna a bandeira do cartão de crédito com base no número do cartão.
+
+    Args:
+        card_number (str): Número do cartão de crédito.
+
+    Returns:
+        str: Bandeira do cartão de crédito.
+    """
     card_number = str(card_number)
     
     # Prefixos das bandeiras
@@ -18,8 +27,9 @@ def get_credit_card_flag(card_number):
     return "Bandeira desconhecida"
 
 # Exemplo de uso
-print(get_credit_card_flag("4111111111111111"))  # Visa
-print(get_credit_card_flag("5105105105105100"))  # MasterCard
-print(get_credit_card_flag("371449635398431"))   # American Express
-print(get_credit_card_flag("6011111111111117"))  # Discover
-print(get_credit_card_flag("3530111333300000"))  # JCB
+if __name__ == "__main__":
+    print(get_credit_card_flag("4111111111111111"))  # Visa
+    print(get_credit_card_flag("5105105105105100"))  # MasterCard
+    print(get_credit_card_flag("371449635398431"))   # American Express
+    print(get_credit_card_flag("6011111111111117"))  # Discover
+    print(get_credit_card_flag("3530111333300000"))  # JCB

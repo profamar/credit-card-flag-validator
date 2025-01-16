@@ -35,6 +35,10 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 ## Licença
 Este projeto está licenciado sob a Licença MIT. 
 
+---
+
+📧 Contato Para dúvidas ou sugestões, entre em contato pelo LinkedIn: Márcia Soares
+
 ## 🤝 Agradecimentos
 Agradecemos à comunidade de desenvolvedores da DIO e aos nossos mentores por todo o suporte durante o desenvolvimento deste projeto.
 

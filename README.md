@@ -37,10 +37,5 @@ Este projeto está licenciado sob a Licença MIT.
 
 ---
 
-## 🤝 Agradecimentos
-Agradecemos à comunidade de desenvolvedores da DIO e aos nossos mentores por todo o suporte durante o desenvolvimento deste projeto.
-
----
-
 Para dúvidas ou sugestões, entre em contato pelo LinkedIn: [Márcia Soares](https://www.linkedin.com/in/márcia-soares-236974256)
 
